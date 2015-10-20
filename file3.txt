@@ -1,1 +1,1 @@
-This is file 3.  Nice.
+This is file 3.  Nice. But now I had to change it for bugFix1Branch.
